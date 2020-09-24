@@ -22,7 +22,6 @@ public class Compra {
     private String medioPago;
 
     private String comentario;
-
     private String estado;
 
     @ManyToOne

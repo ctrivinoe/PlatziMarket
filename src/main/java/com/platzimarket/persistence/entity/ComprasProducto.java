@@ -10,9 +10,7 @@ public class ComprasProducto {
     private ComprasProductoPK id;
 
     private Integer cantidad;
-
     private Double total;
-
     private Boolean estado;
 
     @ManyToOne
